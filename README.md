@@ -1,4 +1,4 @@
-# Student Performance Indicator
+# ExamPerformancePredictor
 
 A machine learning project that predicts student performance based on various academic and socio-economic factors. This project leverages supervised learning techniques to analyze student data and provide insights that can help educators and stakeholders make informed decisions.
 
